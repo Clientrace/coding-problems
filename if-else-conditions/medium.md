@@ -36,4 +36,19 @@ Your change is 20
 ```
 
 
+### Intern Qualification
+Create a program that decides if an intern interview goes well. Ask first if the HR likes the behaviour of the intern 1-yes, 2-no. Then ask how well did the enter perform on the technical interview rate it from 1 to 10. Lastly, ask if the HR recommends the intern's qualification. The inter will pass the interview if he gets 8 or higher from the technical interview and the HR like his/her behaviour or the HR recommends the intern's qualification. The intern will pass if the HR recommends him/her regardless of his/her behaviour or technical interview result.
+
+#### Example
+```
+Good intern behaviour? 1-yes 0-no
+Technical interview rating: 0
+Do you recommend this intern? 1-yes 0-no  1
+Intern passed the interview!
+```
+
+
+
+
+
 
